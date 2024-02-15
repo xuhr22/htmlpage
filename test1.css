@@ -1,0 +1,15 @@
+p{
+    color:yellow;
+}
+p.a01{
+    color:blue;
+}
+#a2{
+    color:red;
+}
+p:active{
+    color:green;
+}
+p:hover{
+    color:orange;
+}
